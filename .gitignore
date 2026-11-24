@@ -1,0 +1,10 @@
+# Build output
+parking
+parking.exe
+*.o
+*.out
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
